@@ -50,7 +50,7 @@ My research interests include cross-frequency coupling phenomena in the brain, s
 - Zheng, H., **Yu, H.**, Yang, X., Deng, X., Bu, M., Qin, Y., Chen, B.T., Wang, Y., & Jiang, M. Aberrant functional connectivity and Granger causality analysis in patients with β-thalassemia major. *ANNALS OF HEMATOLOGY*.  
   *Poster presented at ISMRM 2025*
   
-- Rong, H., **Yu, H.**, Zheng, H., Yang, X., Deng, X., Bu, M., Qin, Y., Chen, B.T., Wang, Y., & Jiang, M. Machine learning approach and global signal analysis in patients with β-thalassemia and cognitive impairment. *British Journal of Haematology*.  
+- Rong, W., **Yu, H.**, Zheng, H., Yang, X., Deng, X., Bu, M., Qin, Y., Chen, B.T., Wang, Y., & Jiang, M. Machine learning approach and global signal analysis in patients with β-thalassemia and cognitive impairment. *British Journal of Haematology*.  
 
 ### Meeting Presentation
 - **Yu, H.**, Wang, Z., Zheng, C., & Wang, Y. Altered Global Signal Topography and Its Regional Localization in ADHD. Poster presentation at the 5th China Conference on Computational and Cognitive Neuroscience, Beijing, July 2022.
