@@ -9,7 +9,7 @@ Institute of Brain and Psychological Sciences, Sichuan Normal University
 
 ## About Me
 
-I am a master's student in psychology (GPA 3.9/4.0), focusing on EEG/MEG/fMRI data processing, cross-frequency coupling, spatiotemporal specificity, and data-driven stimulation strategies. I have extensive experience in multimodal data acquisition (MEG/EEG/fMRI/fNIRS + tDCS) and signal analysis, with skills in MATLAB, partial Python, and Linux automation scripts.
+I am a master's student in psychology (GPA 3.9/4.0), focusing on cross-frequency coupling, spatiotemporal specificity, and data-driven stimulation strategies. I have extensive experience in multimodal data acquisition (MEG/EEG/fMRI/fNIRS + tDCS) and signal analysis, with some skills in MATLAB, partial Python, and Linux automation scripts.
 
 My research interests include cross-frequency coupling phenomena in the brain, spatial specificity across different frequency bands, and spatiotemporal patterns under different tasks with corresponding precise intervention strategies.
 
@@ -47,8 +47,10 @@ My research interests include cross-frequency coupling phenomena in the brain, s
 - Liu, R., Wang, M., Liu, Q., Jing, X., Hao, Q., **Yu, H.**, & Wang, Y. HD-tDCS improves conflict processing and behavioral stability. *Scientific Reports*, 15, 30151.
 
 ### Under Review
-- Zheng, H., **Yu, H.**, Yang, X., Deng, X., Bu, M., Qin, Y., Chen, B.T., Wang, Y., & Jiang, M. Aberrant functional connectivity and Granger causality analysis in patients with β-thalassemia major. *British Journal of Haematology*.  
+- Zheng, H., **Yu, H.**, Yang, X., Deng, X., Bu, M., Qin, Y., Chen, B.T., Wang, Y., & Jiang, M. Aberrant functional connectivity and Granger causality analysis in patients with β-thalassemia major. *ANNALS OF HEMATOLOGY*.  
   *Poster presented at ISMRM 2025*
+  
+- Rong, H., **Yu, H.**, Zheng, H., Yang, X., Deng, X., Bu, M., Qin, Y., Chen, B.T., Wang, Y., & Jiang, M. Machine learning approach and global signal analysis in patients with β-thalassemia and cognitive impairment. *British Journal of Haematology*.  
 
 ### Meeting Presentation
 - **Yu, H.**, Wang, Z., Zheng, C., & Wang, Y. Altered Global Signal Topography and Its Regional Localization in ADHD. Poster presentation at the 5th China Conference on Computational and Cognitive Neuroscience, Beijing, July 2022.
@@ -65,26 +67,16 @@ My research interests include cross-frequency coupling phenomena in the brain, s
 | Method | fMRI | EEG | fNIRS | MEG |
 |--------|------|-----|-------|-----|
 | Preprocessing | ✓ (SPM / DPABI / AFNI) | ✓ (EEGLAB / FieldTrip) | ✓ (Homer3) | ✓ (FieldTrip) |
-| Frequency / Time-Frequency Analysis | ✓ | ✓ (EEGLAB / FieldTrip) | ✓ | ✓ |
-| Functional Connectivity | ✓ (DPABI / SPM) | ✓ (EEGLAB / custom) | ✓ | ✓ (custom) |
-| MVPA / Decoding | ✓ | ✓ | – | ✓ |
+| Frequency / Time-Frequency Analysis | ✓(custom) | ✓ (EEGLAB / FieldTrip) | ✓(custom) | ✓(custom) |
+| Functional Connectivity | ✓ (DPABI / SPM) | ✓ (EEGLAB / custom) | ✓(custom) | ✓ (custom) |
+| MVPA / Decoding | ✓(custom) | ✓(custom) | – | ✓(custom) |
 
 ### Other Skills & Experience
 
 - **Programming & IT**: MATLAB (primary), Python (reading & light modification), R (visualization), Linux/Bash scripting
-- **Experimental Experience**: Independently collected 200+ experimental cases, MEG, EEG, fMRI, fNIRS with tDCS equipment
+- **Experimental Experience**: Independently collected 200+ experimental cases(including MEG, EEG, fMRI, fNIRS with tDCS equipment)
 - **Modeling Experience**: Replicating RL studies from academic papers, Code repository available
 - **Languages**: Chinese (Native), English (IELTS 6.5)
-
----
-
-## Research Interests
-
-- Cross-frequency coupling phenomena in the brain
-- Spatial specificity across different frequency bands
-- Spatiotemporal patterns under different tasks and corresponding precise intervention strategies
-- Data-driven stimulation strategies
-- Computational modeling of cognitive processes
 
 ---
 
