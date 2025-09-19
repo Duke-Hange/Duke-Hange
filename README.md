@@ -1,7 +1,7 @@
 # Hang Yu
 
-**M.Ed. in Psychology — Brain & Cognitive Neuroscience | Computational Modeling**  
-Institute of Brain and Psychological Sciences, Sichuan Normal University
+**Brain Researcher**  
+Research Assistant, Shanghai Jiao Tong University School of Medicine and School of Psychology,
 
 **Objective**: Ph.D. finding.
 
@@ -9,7 +9,7 @@ Institute of Brain and Psychological Sciences, Sichuan Normal University
 
 ## About Me
 
-I am a master's student in psychology (GPA 3.9/4.0), focusing on cross-frequency coupling, spatiotemporal specificity, and data-driven stimulation strategies. I have extensive experience in multimodal data acquisition (MEG/EEG/fMRI/fNIRS + tDCS) and signal analysis, with some skills in MATLAB, partial Python, and Linux automation scripts.
+A master's student in psychology(GPA 3.9/4.0) focusing on cross-frequency coupling, spatiotemporal specificity, and data-driven stimulation strategies. I have extensive experience in multimodal data acquisition (MEG/EEG/fMRI/fNIRS + tDCS) and signal analysis, with some skills in MATLAB, partial Python, and Linux automation scripts.
 
 My research interests include cross-frequency coupling phenomena in the brain, spatial specificity across different frequency bands, and spatiotemporal patterns under different tasks with corresponding precise intervention strategies.
 
