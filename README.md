@@ -39,7 +39,7 @@ My research interests include cross-frequency coupling phenomena in the brain, s
 
 ---
 
-## Academic works
+## Academic Works
 
 ### Publications
 - **Yu, H.**, Liu, X., Zheng, C., Wang, Z., Wang, M., Zhang, C., Hao, Q., Liu, R., & Wang, Y. Frequency-specific modulations for subcomponents of executive functions in the infra-slow frequency range — A combined O-tDCS and fNIRS study. *International Journal of Clinical and Health Psychology*, 25(2), 100575.
