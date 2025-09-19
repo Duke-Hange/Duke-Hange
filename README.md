@@ -39,9 +39,9 @@ My research interests include cross-frequency coupling phenomena in the brain, s
 
 ---
 
-## Publications & Achievements
+## Acadamic works
 
-### 2025
+### Publications
 - **Yu, H.**, Liu, X., Zheng, C., Wang, Z., Wang, M., Zhang, C., Hao, Q., Liu, R., & Wang, Y. Frequency-specific modulations for subcomponents of executive functions in the infra-slow frequency range — A combined O-tDCS and fNIRS study. *International Journal of Clinical and Health Psychology*, 25(2), 100575.
 
 - Liu, R., Wang, M., Liu, Q., Jing, X., Hao, Q., **Yu, H.**, & Wang, Y. HD-tDCS improves conflict processing and behavioral stability. *Scientific Reports*, 15, 30151.
