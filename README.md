@@ -3,7 +3,7 @@
 **M.Ed. in Psychology — Brain & Cognitive Neuroscience | Computational Modeling**  
 Institute of Brain and Psychological Sciences, Sichuan Normal University
 
-**Objective**: To obtain an offer of acceptance into the psychology Ph.D. program and apply for the Chinese Scholarship Council (CSC) funding.
+**Objective**: Ph.D. finding.
 
 ---
 
