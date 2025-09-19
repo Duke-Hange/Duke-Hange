@@ -75,7 +75,7 @@ My research interests include cross-frequency coupling phenomena in the brain, s
 
 - **Programming & IT**: MATLAB (primary), Python (reading & light modification), R (visualization), Linux/Bash scripting
 - **Experimental Experience**: Independently collected 200+ experimental cases(including MEG, EEG, fMRI, fNIRS with tDCS equipment)
-- **Modeling Experience**: Replicating RL studies from academic papers, Code repository available
+- **Modeling Experience**: Studying, could replicate RL studies from some academic papers now
 - **Languages**: Chinese (Native), English (IELTS 6.5)
 
 ---
@@ -85,7 +85,6 @@ My research interests include cross-frequency coupling phenomena in the brain, s
 If you are interested in collaboration, discussion, or recruitment, feel free to reach out:
 
 - 📧 Email: [hippocampus.yh@outlook.com](mailto:hippocampus.yh@outlook.com)
-[Send Email](mailto:hippocampus.yh@outlook.com)
 
 ---
 
