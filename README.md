@@ -31,7 +31,7 @@ My research interests include cross-frequency coupling phenomena in the brain, s
 
 - **2024.03 – 2024.06**: Cambridge/Oxford joint project (university recommendation, tuition waived)
 
-- **2023.04 – 2023.11**: Research Assistant, Institute of Neuroscience, CAS (Advisor: Yunzhe Liu). OPM-MEG acquisition and analysis.
+- **2023.04 – 2023.11**: Research Assistant, Chinese Institute for Brain Research (CIBR)， (Advisor: Yunzhe Liu). OPM-MEG acquisition and analysis.
 
 - **2023.01**: Participant for proofreading, OpenTransfer4Lakens project. Proofreading the 12 chapters of Daniel Lakens' eBook "Improving Your Statistical Inferences". [Project GitHub](https://github.com/OpenSci-CN/OpenTransfer4Lakens)
 
