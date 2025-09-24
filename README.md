@@ -88,4 +88,3 @@ If you are interested in collaboration, discussion, or recruitment, feel free to
 
 ---
 
-© 2025 Hang Yu — Institute of Brain and Psychological Sciences, Sichuan Normal University
