@@ -3,8 +3,6 @@
 **Brain Researcher**  
 Research Assistant, Shanghai Jiao Tong University School of Medicine and School of Psychology,
 
-**Objective**: Ph.D. finding.
-
 ---
 
 ## About Me
